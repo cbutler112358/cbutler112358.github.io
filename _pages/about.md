@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: null
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,110 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+
+<h1>
+About
+</h1>
+
+<p> I am a first year graduate student in the Biomathematics 
+Ph.D. program at North Carolina State University. I received a B.Sc. in 
+Mathematics with highest honors from the University of Maine in 2016 (my undergraduate
+thesis can be found <a href="https://digitalcommons.library.umaine.edu/honors/630/">here</a>. 
+I grew up in Auburn, ME where
+I developed a fascination in disease and mathematics, although I spent the first
+years at my undergraduate institution as a civil engineer! Eventually, I 
+committed myself to a degree in mathematics after my REU experience at the 
+Mathematical and Theoretical Biology Institute at Arizona State University, 
+and a grant project I worked on with Prof. David Hiebeler. This is also around
+the time when I became interested in programming to assist in some of my 
+computational-oriented work, developing advanced knowledge in R, MATLAB, and 
+NetLogo. </p>
+
+<h1>
+Research Interests
+</h1>
+
+<p>
+Broadly speaking, my research interests are in the mathematical modeling 
+of biological systems, specifically those concerning the spread and control 
+of infectious diseases. As an undergraduate, my formal projects consisted
+of researching metapopulation analogues of superspreaders, comparing control strategies
+for the <a href="https://arxiv.org/abs/1911.07711">nosocomial transmission of MRSA</a>, applications of topological
+concepts to aid in the diagnosis of breast cancer, developing a <a href="https://digitalcommons.library.umaine.edu/honors/630/">mathematical model of the opioid epidemic</a>,
+some work modeling simple
+ecological landscapes over heterogeneous landscapes, and many more. 
+</p>
+
+<p>
+As a graduate student, my interests have narrowed to what I consider to be
+the next big step in our understanding of the spread and control of
+infectious diseases: genetics. Genetics help shed light on many pertinent issues
+at the center of our struggle with infectious disease, from antibiotic resistance to
+zoonotic spillover. This knowledge also informs how we control disease, such as the
+effectiveness promised by gene drives in controlling mosquito vectors of such diseases as 
+malaria. Beyond population suppression, it may even be possible one day
+to spread a gene into a population of mosquitoes rendering them incapable of carrying
+the virus responsible for dengue. 
+
+Developments in our ability to study and analyze genetic information in recent decades
+have revolutionized the life sciences and has placed us in a position to more 
+accurately account for the genetic heterogeneity in populations of hosts and pathogens when
+modeling the spread and control of the latter. The importance of this progress cannot
+be overstated, and will no doubt result in deviations from the conventional paradigm associated
+with the mathematical analysis of disease systems we have been familiar with for nearly a 
+century. Anderson and May, in their seminal text <i>Infectious Diseases of Humans: Dynamics and 
+Control</i>, acknowledged these assumptions and rema
+<blockquote>
+<p>
+Much of conventional theory and practice in epidemiological and ecological research
+is based on the premise that an understanding of observed patterns and processes can 
+be achieved by reference to the average phenotypic characteristics of a group or 
+sample of individuals and to some measure of variance. This approach is widely adopted despite the
+certain knowledge that populations of organisms are genetically heterogeneous...
+the genetic background of the host and disease agent is of certain importance to the outcome of the 
+interaction between the two species.
+</p>
+</blockquote>
+
+
+It is no doubt that the development in recent decades would have eventually allowed
+us to take advantage of this information to account for the genetic heterogeneity
+in a population.
+
+
+
+From the tools that we use to control disease spread, to accounting for genetic
+variability in both host and parasite populations, genetics can help inform 
+much of how we understand the spread of disease in a population. 
+Some examples highlighting the importance of genetics in helping us both to 
+understand and control infectious disease transmission include antibiotic resistance,
+zoonotic spillover, antigenically distinct strains of a virus, and genetic mechanisms
+of controlling vector populations such as gene drives.  
+
+ From evolving resistance to...  
+and we have never been in a better position to study it. Much of my thoughts on the 
+matter are summarized quite aptly by R.M. Anderson and R.M. May in their 
+seminal text <i>Infectious Diseases of Humans: Dynamics and Control</i>:
+
+</p>
+
+This is why, when I enrolled at NCSU, I became a student in the <a href="https://ggi.ncsu.edu/">Genetics and Genomics 
+Initiative</a>. I am currently a member of the <a href="http://alun.math.ncsu.edu/">Lloyd lab</a>, where I hope to research on
+gene drive technology and its potential in mitigating disease burden. We are currently studying how density
+dependence shapes the effectiveness of gene drive performance in a population of mosquitoes,
+and how this influences disease control efforts. I am also working with Prof. Peter Stechlinski from the
+University of Maine on a general mathematical model of the opioid epidemic. 
+
+Blah blah talking about my research interests and what I do. Some equations:
+$$
+\begin{align}
+f(x) & = \int_0^{\infty} g(x) \ dx\nonumber\\
+g(x) & = 47
+\end{align}
+$$
+
+
+[//]: # (This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com ), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).)
 
 A data-driven personal website
 ======
@@ -48,3 +151,4 @@ Example: editing a markdown file for a talk
 For more info
 ------
 More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+</p>

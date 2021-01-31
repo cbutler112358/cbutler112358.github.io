@@ -50,61 +50,84 @@
 
 .page__content {
 
-  h2 {
-    padding-bottom: 0.5em;
-    border-bottom: 1px solid $border-color;
-  }
-
-  p, li, dl {
-    font-size: 1em;
-  }
-
-  /* paragraph indents */
-  p {
-    margin: 0 0 $indent-var;
-
-    /* sibling indentation*/
-    @if $paragraph-indent == true {
-      & + p {
-        text-indent: $indent-var;
-        margin-top: -($indent-var);
-      }
+    h2 {
+        padding-bottom: 0.5em;
+        border-bottom: 1px solid $border-color;
     }
-  }
 
-  a {
-    text-decoration: underline;
 
-    &:hover {
-      text-decoration: underline;
 
-      img {
-        box-shadow: 0 0 10px rgba(#000, 0.25);
-      }
+    figure {
+        display: block;
+        // border: 1px dotted gray;
+        margin: 1px; /* adjust as needed */
     }
-  }
 
-  dt {
-    margin-top: 1em;
-    font-family: $sans-serif;
-    font-weight: bold;
-  }
+    figure img {
+        vertical-align: top;
 
-  dd {
-    margin-left: 1em;
-    font-family: $sans-serif;
-    font-size: $type-size-6;
-  }
+    }
 
-  .small {
-    font-size: $type-size-6;
-  }
+    figure figcaption {
+        // border: 1px dotted blue;
+        text-align: center;
+    }
 
-  /* blockquote citations */
-  blockquote + .small {
-    margin-top: -1.5em;
-    padding-left: 1.25rem;
-  }
+    .center {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 75%;
+    }
+
+
+    p, li, dl {
+        font-size: 1em;
+    }
+    /* paragraph indents */
+    p {
+        margin: 0 0 $indent-var;
+        /* sibling indentation*/
+        @if $paragraph-indent == true {
+            & + p {
+                text-indent: $indent-var;
+                margin-top: -($indent-var);
+            }
+        }
+    }
+
+    a {
+        text-decoration: underline;
+
+        &:hover {
+            text-decoration: underline;
+
+            img {
+                box-shadow: 0 0 10px rgba(#000, 0.25);
+            }
+        }
+    }
+
+    dt {
+        margin-top: 1em;
+        font-family: $sans-serif;
+        font-weight: bold;
+    }
+
+    dd {
+        margin-left: 1em;
+        font-family: $sans-serif;
+        font-size: $type-size-6;
+    }
+
+    .small {
+        font-size: $type-size-6;
+    }
+    /* blockquote citations */
+    blockquote + .small {
+        margin-top: -1.5em;
+        padding-left: 1.25rem;
+    }
 }
 
 .page__hero {
@@ -227,7 +250,7 @@
 
 .page__meta {
   margin-top: 2em;
-  color: mix(#fff, $gray, 25%);
+  color: #000; // mix(#fff, $gray, 25%);
   font-family: $sans-serif;
   font-size: $type-size-6;
 

@@ -1,7 +1,8 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "A model of the opioid epidemic"
+excerpt: "A collaborative project with the goal of mathematically modeling the opioid epidemic at the state level and using the 
+results to inform directions of control.<br/><img src='/images/HRLRmodel_resize.png'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+This description can be found in _portfolio.

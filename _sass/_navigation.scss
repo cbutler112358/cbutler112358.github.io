@@ -83,21 +83,21 @@
       line-height: 1.5;
       text-align: center;
       text-decoration: none;
-      color: mix(#fff, $gray, 25%);
-      border: 1px solid $light-gray;
+      color: #000; // mix(#fff, $gray, 25%);
+      border: 1px solid  $light-gray;
       border-radius: 0;
 
       &:hover {
-        color: $link-color-hover;
+        color:  $link-color-hover;
       }
 
       &.current {
-        color: #fff;
+        color: #000; // #fff;
         background: $primary-color;
       }
 
       &.disabled {
-        color: mix(#fff, $gray, 75%);
+        color: #000; // mix(#fff, $gray, 75%);
         pointer-events: none;
         cursor: not-allowed;
       }
@@ -131,7 +131,7 @@
     font-weight: bold;
     text-align: center;
     text-decoration: none;
-    color: mix(#fff, $gray, 50%);
+    color: #000; // mix(#fff, $gray, 50%);
     border: 1px solid $light-gray;
     border-radius: $border-radius;
 
@@ -175,13 +175,13 @@
 .greedy-nav {
   position: relative;
   min-width: 250px;
-  background: $background-color;
+  // background: $background-color;
 
   a {
     display: block;
     margin: 0 1rem;
     padding: 0.5rem 0;
-    color: $masthead-link-color;
+    color: #000; // $masthead-link-color;
     text-decoration: none;
 
     &:hover {
@@ -232,7 +232,7 @@
         left: 0;
         bottom: 0;
         height: 4px;
-        background: mix(#fff, $primary-color, 50%);
+        background: $info-color; /*mix(#fff, $primary-color, 50%);*/
         width: 100%;
         -webkit-transition: $global-transition;
         transition: $global-transition;
@@ -340,7 +340,7 @@
     border-radius: $border-radius;
 
     &:hover {
-      color: #fff;
+      color: inherit;
     }
   }
 }
