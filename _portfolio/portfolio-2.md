@@ -6,4 +6,10 @@ control efforts. <br/><img src='/images/download_resize.png'>"
 collection: portfolio
 ---
 
-Found in _portfolio. 
+I am currently researching the capability of gene drives to control the transmission of
+mosquito-borne diseases in the <a href="http://alun.math.ncsu.edu/" target="_blank"  rel="noopener noreferrer">Lloyd lab</a>.
+So far, my research concerns how density-dependence in mosquito
+populations effects gene drive performance. 
+
+In general, I hope to use this opportunity
+to further explore the interplay between coupled disease and population genetic models.   
