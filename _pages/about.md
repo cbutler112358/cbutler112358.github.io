@@ -16,7 +16,7 @@ About
 <p> I am a first year graduate student in the Biomathematics 
 Ph.D. program at North Carolina State University. I received a B.Sc. in 
 Mathematics with highest honors from the University of Maine in 2016 (my undergraduate
-thesis can be found <a href="https://digitalcommons.library.umaine.edu/honors/630/">here</a>). 
+thesis can be found <a href="https://digitalcommons.library.umaine.edu/honors/630/" target="_blank"  rel="noopener noreferrer">here</a>). 
 I grew up in Auburn, ME where
 I developed a fascination of disease and mathematics, although I spent the first
 years at my undergraduate institution studying to become a civil engineer! Eventually, I 
