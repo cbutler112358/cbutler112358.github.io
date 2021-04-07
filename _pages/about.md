@@ -18,14 +18,14 @@ Ph.D. program at North Carolina State University. I received a B.Sc. in
 Mathematics with highest honors from the University of Maine in 2016 (my undergraduate
 thesis can be found <a href="https://digitalcommons.library.umaine.edu/honors/630/">here</a>). 
 I grew up in Auburn, ME where
-I developed a fascination in disease and mathematics, although I spent the first
-years at my undergraduate institution as a civil engineer! Eventually, I 
+I developed a fascination of disease and mathematics, although I spent the first
+years at my undergraduate institution studying to become a civil engineer! Eventually, I 
 committed myself to a degree in mathematics after my REU experience at the 
 Mathematical and Theoretical Biology Institute at Arizona State University, 
 and a grant project I worked on with Prof. David Hiebeler. This is also around
 the time when I became interested in programming to assist in some of my 
 computational-oriented work, developing advanced knowledge in R, MATLAB, and 
-NetLogo. </p>
+NetLogo, to name a few. </p>
 
 <h1>
 Research Interests
@@ -36,8 +36,9 @@ Broadly speaking, my research interests are in the mathematical modeling
 of biological systems, specifically those concerning the spread and control 
 of infectious diseases. As an undergraduate, my formal projects consisted
 of researching metapopulation analogues of superspreaders, comparing control strategies
-for the <a href="https://arxiv.org/abs/1911.07711">nosocomial transmission of MRSA</a>, applications of topological
-concepts to aid in the diagnosis of breast cancer, developing a <a href="https://digitalcommons.library.umaine.edu/honors/630/">mathematical model of the opioid epidemic</a>,
+for the <a href="https://arxiv.org/abs/1911.07711" target="_blank"  rel="noopener noreferrer">nosocomial transmission of MRSA</a>, 
+applications of topological
+concepts to aid in the diagnosis of breast cancer, developing a <a href="https://digitalcommons.library.umaine.edu/honors/630/" target="_blank"  rel="noopener noreferrer">mathematical model of the opioid epidemic</a>,
 some work modeling simple
 populations over heterogeneous landscapes, and many more. 
 </p>
@@ -49,17 +50,19 @@ to study and analyze genetic information in recent decades have
 revolutionized the life sciences. In particular, genetics help shed light on many pertinent 
 issues at the center of our struggle with infectious disease, from antibiotic resistance 
 to zoonotic spillover. This knowledge also informs how we control disease, with gene 
-drive technology being a relevant and promising example. These tools have already fundamentally changed the landscape of our fight with infectious 
-disease. Mathematically, these innovations will manifest in changes to how we model disease spread and 
-give rise to new systems requiring mathematical analysis. 
+drive technology being a relevant and promising example. These tools have already fundamentally changed the 
+landscape of our fight with infectious 
+disease. Mathematically, these innovations will change how we model disease spread and 
+give rise to new systems benefiting from quantitative analysis. 
 </p>
 
-This is why, when I enrolled at NCSU, I became a student in the 
-<a href="https://ggi.ncsu.edu/">Genetics and Genomics Initiative</a>. This was in order to enhance my 
-understanding of the genetic basis of infectious disease and life in general. I am currently a 
-member of the <a href="http://alun.math.ncsu.edu/">Lloyd lab</a>, where I hope to do research on
-gene drive technology and its potential in mitigating disease burden. We are currently studying how 
-density dependence shapes the effectiveness of gene drive performance in a population of mosquitoes,
-and how this influences disease control efforts. I am also working with Prof. Peter Stechlinski 
+It is for these reasons that when I enrolled at NCSU, I became a student in the 
+<a href="https://ggi.ncsu.edu/" target="_blank"  rel="noopener noreferrer">Genetics and Genomics Initiative</a>. This was in order to enhance my 
+understanding of the genetic mechanisms behind infectious disease, as well as the tools
+and techniques employed by scientists in order to study them. I am currently a 
+member of the <a href="http://alun.math.ncsu.edu/" target="_blank"  rel="noopener noreferrer">Lloyd lab</a>, where I hope to do research on
+gene drive technology and its potential in mitigating disease burden. I am currently studying how 
+density dependence determines the effectiveness of gene drive performance in a population of mosquitoes,
+and how this influences disease control efforts with a focus on dengue. I am also working with Prof. Peter Stechlinski 
 from the University of Maine on a general mathematical model of the opioid epidemic. 
 
