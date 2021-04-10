@@ -18,7 +18,7 @@ Ph.D. program at North Carolina State University. I received a B.Sc. in
 Mathematics with highest honors from the University of Maine in 2016 (my undergraduate
 thesis can be found <a href="https://digitalcommons.library.umaine.edu/honors/630/" target="_blank"  rel="noopener noreferrer">here</a>). 
 I grew up in Auburn, ME where
-I developed a fascination of disease and mathematics, although I spent the first
+I developed a fascination for infectious diseases and mathematics, although I spent the first
 years at my undergraduate institution studying to become a civil engineer! Eventually, I 
 committed myself to a degree in mathematics after my REU experience at the 
 Mathematical and Theoretical Biology Institute at Arizona State University, 
