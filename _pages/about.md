@@ -59,10 +59,10 @@ give rise to new systems benefiting from quantitative analysis.
 It is for these reasons that when I enrolled at NCSU, I became a student in the 
 <a href="https://ggi.ncsu.edu/" target="_blank"  rel="noopener noreferrer">Genetics and Genomics Initiative</a>. This was in order to enhance my 
 understanding of the genetic mechanisms behind infectious disease, as well as the tools
-and techniques employed by scientists in order to study them. I am currently a 
+and techniques employed by scientists to study them. I am currently a 
 member of the <a href="http://alun.math.ncsu.edu/" target="_blank"  rel="noopener noreferrer">Lloyd lab</a>, where I hope to do research on
 gene drive technology and its potential in mitigating disease burden. I am currently studying how 
-density dependence determines the effectiveness of gene drive performance in a population of mosquitoes,
-and how this influences disease control efforts with a focus on dengue. I am also working with Prof. Peter Stechlinski 
+density-dependence determines the effectiveness of gene drive performance in a population of mosquitoes,
+and how this influences disease control efforts. I am also working with Prof. Peter Stechlinski 
 from the University of Maine on a general mathematical model of the opioid epidemic. 
 
