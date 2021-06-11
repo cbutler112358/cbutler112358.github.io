@@ -27,6 +27,12 @@ the time when I became interested in programming to assist in some of my
 computational-oriented work, developing advanced knowledge in R, MATLAB, and 
 NetLogo, to name a few. </p>
 
+<p>
+This website is a mishmash of some of the things I've been up to, including past and current projects,
+presentations, etc. I will also occasionally make a blog post every few weeks about something I found interesting
+during that time. These topics tend to be more general and don't always have to do with epidemiology.
+</p>
+
 <h1>
 Research Interests
 </h1>
