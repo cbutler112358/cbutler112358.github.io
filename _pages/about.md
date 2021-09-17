@@ -13,7 +13,7 @@ redirect_from:
 About
 </h1>
 
-<p> I am a first year graduate student in the Biomathematics 
+<p> I am a second year graduate student in the Biomathematics 
 Ph.D. program at North Carolina State University. I received a B.Sc. in 
 Mathematics with highest honors from the University of Maine in 2016 (my undergraduate
 thesis can be found <a href="https://digitalcommons.library.umaine.edu/honors/630/" target="_blank"  rel="noopener noreferrer">here</a>). 
