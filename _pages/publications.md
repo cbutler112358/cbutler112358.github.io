@@ -15,12 +15,25 @@ author_profile: true
 screening for </i>methicillin-resistant Staphylococcus aureus<i> (MRSA) at hospital admission and discharge</i>. 
 Manuscript submitted for publication; Arxiv: q-bio.PE/1911.07711, 2019.
 
-
-
 My undergraduate thesis on a mathematical model of the opioid epidemic, which received highest honors,
  can be found <a href="https://digitalcommons.library.umaine.edu/honors/630/" target="_blank"  rel="noopener noreferrer">here</a>.
 
+<h2>In preparation (to appear in the coming months)</h2>
+
+<b>Butler, C.</b>, and P. Stechlinski. Modeling opioid abuse: A case study of the opioid crisis in New England. (In preparation.) 
+
+<b>Butler, C.</b>, and A. Lloyd. How the consequences of genetic load are modulated by density-dependence. (In preparation.)
+
+
+
+
+
+
 <pre>
+
+
+
+
 
 
 
