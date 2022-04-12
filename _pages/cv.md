@@ -10,8 +10,8 @@ redirect_from:
 {% include base_path %}
 
 Click
-<a href="/files/CV_2021.pdf" download>
-  here</a> for a copy of my CV <b>(updated September 2021)</b>.
+<a href="/files/CV_2022.pdf" download>
+  here</a> for a copy of my CV <b>(updated April 2022)</b>.
 
 <pre>
 
