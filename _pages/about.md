@@ -13,8 +13,9 @@ redirect_from:
 About
 </h1>
 
-<p> I am a second year graduate student in the Biomathematics 
-Ph.D. program at North Carolina State University. I received a B.Sc. in 
+<p> I am a third year graduate student in the Biomathematics 
+Ph.D. program at North Carolina State University. I am a Genetics and Genomics Scholar, as well as a recipient of the 
+National Science Foundation's Graduate Research Fellowship. I received a B.S. in 
 Mathematics with highest honors from the University of Maine in 2016 (my undergraduate
 thesis can be found <a href="https://digitalcommons.library.umaine.edu/honors/630/" target="_blank"  rel="noopener noreferrer">here</a>). 
 I grew up in Auburn, ME where
@@ -29,8 +30,8 @@ NetLogo, to name a few. </p>
 
 <p>
 This website is a mishmash of some of the things I've been up to, including past and current projects,
-presentations, etc. I will also occasionally make a blog post every few weeks about something I found interesting
-during that time. These topics tend to be more general and don't always have to do with epidemiology. Also,
+presentations, etc. I will also occasionally make a blog post every about some of the things I find interesting. 
+These topics tend to be more general and don't always have to do with epidemiology. Also,
 for some reason or another, the pages may look a little funky if you have an AdBlocker enabled. 
 </p>
 
@@ -67,9 +68,9 @@ It is for these reasons that when I enrolled at NCSU, I became a student in the
 <a href="https://ggi.ncsu.edu/" target="_blank"  rel="noopener noreferrer">Genetics and Genomics Initiative</a>. This was in order to enhance my 
 understanding of the genetic mechanisms behind infectious disease, as well as the tools
 and techniques employed by scientists to study them. I am currently a 
-member of the <a href="http://alun.math.ncsu.edu/" target="_blank"  rel="noopener noreferrer">Lloyd lab</a>, where I hope to do research on
+member of the <a href="http://alun.math.ncsu.edu/" target="_blank"  rel="noopener noreferrer">Lloyd lab</a>, where I do research on
 gene drive technology and its potential in mitigating disease burden. I am currently studying how 
-density-dependence determines the effectiveness of gene drive performance in a population of mosquitoes,
+density-dependence determines the effectiveness of gene drive performance in mosquito populations,
 and how this influences disease control efforts. I am also working with Prof. Peter Stechlinski 
 from the University of Maine on a general mathematical model of the opioid epidemic. 
 
