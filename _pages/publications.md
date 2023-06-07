@@ -11,10 +11,11 @@ author_profile: true
 
 {% include base_path %}
 
-<b>Butler, C.</b>, and P. Stechlinski. Modeling opioid abuse: A case study of the opioid crisis in New England. (In press.) 
+<b>Butler, C.</b>, & P. Stechlinski (2023). Modeling Opioid Abuse: A Case Study of the Opioid Crisis in New England. 
+<i>Bulletin of mathematical biology</i>, 85(6);45. DOI: 10.1007/s11538-023-01148-1
 
-Yadav, A., <b>Butler, C.</b>, Yamamoto, A., Patil, A., Lloyd, A., and M. Scott. CRISPR-Cas9 based split homing gene-drive targeting 
-<i>doublesex</i> for population suppression of the global fruit pest <i>Drosophila suzukii</i>. (In press.)
+Yadav, A., <b>Butler, C.</b>, Yamamoto, A., Patil, A., Lloyd, A., and M. Scott (2023). CRISPR-Cas9 based split homing gene-drive targeting 
+<i>doublesex</i> for population suppression of the global fruit pest <i>Drosophila suzukii</i>. <i>PNAS</i>, (In press.)
 
 <b>Butler, C.</b>, Cheng, J., Correa, L., Preciado, M., Ríos, A., Montalvo, C., and C. Kribs. (2021) Comparison of 
 screening for <i>methicillin-resistant Staphylococcus aureus</i> (MRSA) at hospital admission and discharge. 

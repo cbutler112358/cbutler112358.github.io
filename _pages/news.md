@@ -7,7 +7,8 @@ author_profile: true
 
 {% include base_path %}
 
-(In press.) An article I wrote for SIAM News Online based on a presentation I gave for the SIAM Conference on the Life Sciences 2022. 
+<a href="https://sinews.siam.org/Details-Page/gene-drives-and-population-suppression-addressing-mosquito-borne-disease" target="_blank"  rel="noopener noreferrer">An article</a>
+I wrote for SIAM News Online based on a talk I gave at the SIAM Conference on the Life Sciences in 2022. 
 
 An 
 <a href="https://www.labroots.com/trending/health-and-medicine/24546/biomathematics-mosquitoes-diseases-cole-butler-phd-student-north-carolina-university-grad-student-hi-2" target="_blank"  rel="noopener noreferrer">interview</a>
