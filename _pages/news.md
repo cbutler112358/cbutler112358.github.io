@@ -7,6 +7,10 @@ author_profile: true
 
 {% include base_path %}
 
+<a href="https://geneticliteracyproject.org/2023/06/16/still-unapproved-crispr-gene-drive-could-suppress-fruit-killing-vinegar-flies/" target="_blank"  rel="noopener noreferrer">Here</a> and 
+<a href="https://news.ncsu.edu/2023/06/crispr-gene-drive-could-suppress-ag-pests/" target="_blank"  rel="noopener noreferrer">here</a>
+are some news articles based on a study I did some modeling work for. 
+
 <a href="https://sinews.siam.org/Details-Page/gene-drives-and-population-suppression-addressing-mosquito-borne-disease" target="_blank"  rel="noopener noreferrer">An article</a>
 I wrote for SIAM News Online based on a talk I gave at the SIAM Conference on the Life Sciences in 2022. 
 
