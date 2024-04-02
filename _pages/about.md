@@ -13,7 +13,7 @@ redirect_from:
 About
 </h1>
 
-<p> I am a third year graduate student in the Biomathematics 
+<p> I am a fourth year graduate student in the Biomathematics 
 Ph.D. program at North Carolina State University. I am a Genetics and Genomics Scholar, as well as a recipient of the 
 National Science Foundation's Graduate Research Fellowship. I received a B.S. in 
 Mathematics with highest honors from the University of Maine in 2016 (my undergraduate
