@@ -1,19 +1,21 @@
 ---
-title: "Modeling the opioid epidemic"
-excerpt: "A collaborative project with the goal of mathematically modeling the opioid epidemic at the state level and using the 
-results to inform directions of control.<br/><img src='/images/HRLRmodel_resize.png'>"
+title: "Balancing gene drive spread and fitness cost"
+excerpt: "Gene drives are any natural or artificial mechanism of spreading a genetic 'cargo' into a target population. 
+Gene drives are introduced by the release of genetically modified (transgenic) organisms carrying the cargo gene. 
+These genes almost always inflict a fitness cost on transgenic organisms, underlying a balance between 
+the spread of the gene drive and the cost it imposes.  
+<br/><img src='/images/patch_drive_example_resized.png'>"
 collection: portfolio
 ---
 
-Since my third year as an undergraduate, I have been studying the opioid epidemic in Maine
-and working toward a mathematical model to capture its dynamics. The end goal of this 
-project is to hopefully inform control measures in the future, and give us an idea of where we're headed.
-I have been performing this reserch with the help of Prof. Peter Stechlinski at the University of Maine.
+Gene drives are any natural or artificial mechanism of spreading a genetic 'cargo' into a target population. 
+Gene drives are introduced by the release of genetically modified (transgenic) organisms carrying the cargo gene. 
+These genes almost always inflict a fitness cost on transgenic organisms, underlying a balance between 
+the spread of the gene drive and the cost it imposes. 
 
-This project was originally funded by a public affairs scholarship from the
-<a href="https://mcspolicycenter.umaine.edu/" target="_blank"  rel="noopener noreferrer">Margaret Chase Smith Policy Center</a> at
-the University of Maine, and culminated in my 
-<a href="https://digitalcommons.library.umaine.edu/honors/630/" target="_blank"  rel="noopener noreferrer">undergraduate thesis</a>.
+Gene drives propagate via mating between transgenic and wild-type (i.e., lacking the genetic cargo) organisms. 
+If the genetic cargo is too deleterious, however, spread can be inefficient or even fail. I am studying
+the relationship between the fitness cost of a gene drive and its ability to spread in space, and how these
+features combine to determine gene drive success. 
 
-We are continuing to work on the project in a more general sense with the state of Maine as a case study. We hope
-to submit a manuscript sometime in the next year, so stay tuned!
+

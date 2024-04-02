@@ -1,15 +1,15 @@
 ---
-title: "Gene drives and their potential to control disease"
-excerpt: "As part of a broader study of gene drives in controlling vector-borne diseases, I am specifically
-looking at how density-dependent dynamics in populations affect gene drive performance and subsequent disease
-control efforts. <br/><img src='/images/download_resize.png'>"
+title: "How density dependence affects pest population control"
+excerpt: "Many pest populations are regulated by density-dependent factors. One example of this is in the yellow 
+fever mosquito, <i>Aedes aegypti</i>, where larval survival is affected by intraspecific larval competition. 
+<br/><img src='/images/download_resize.png'>"
 collection: portfolio
 ---
 
-I am currently researching the capability of gene drives to control the transmission of
-mosquito-borne diseases in the <a href="http://alun.math.ncsu.edu/" target="_blank"  rel="noopener noreferrer">Lloyd lab</a>.
-So far, my research concerns how density-dependence in mosquito
-populations affects gene drive performance. 
-
-In general, I hope to use this opportunity
-to further explore the interplay between coupled disease and population genetic models.   
+Many pest populations are regulated by density-dependent factors. One example of this is in the yellow 
+fever mosquito, <i>Aedes aegypti</i>, where larval survival is affected by intraspecific larval competition.
+Reducing adult populations of 
+<i>Aedes aegypti</i> can reduce the number of larvae, which can paradoxically lead to an <i>increase</i> in
+the number of adults in the system if intraspecific larval competition is substantially reduced. 
+I am interested in how these factors are quantitatively studied and how our assumptions about density dependence
+change projected population suppression. 
