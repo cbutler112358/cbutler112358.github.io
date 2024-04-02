@@ -7,6 +7,9 @@ author_profile: true
 
 {% include base_path %}
 
+Here is <a href="https://www.youtube.com/watch?v=720cezmHhWY" target="_blank"  rel="noopener noreferrer">video proof</a>
+of me doing lab work.
+
 <a href="https://geneticliteracyproject.org/2023/06/16/still-unapproved-crispr-gene-drive-could-suppress-fruit-killing-vinegar-flies/" target="_blank"  rel="noopener noreferrer">Here</a> and 
 <a href="https://news.ncsu.edu/2023/06/crispr-gene-drive-could-suppress-ag-pests/" target="_blank"  rel="noopener noreferrer">here</a>
 are some news articles based on a study I did some modeling work for. 
