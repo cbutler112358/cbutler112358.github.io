@@ -13,7 +13,7 @@ redirect_from:
 About
 </h1>
 
-<p> I am a fourth year graduate student in the Biomathematics 
+<p> I am a fifth year graduate student in the Biomathematics 
 Ph.D. program at North Carolina State University. I am a <a href="https://gga.ncsu.edu/" target="_blank"  rel="noopener noreferrer">Genetics and Genomics Scholar</a>, 
 as well as a recipient of the National Science Foundation's Graduate Research Fellowship. 
 I received a B.S. in 
