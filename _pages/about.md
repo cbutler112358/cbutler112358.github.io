@@ -13,8 +13,8 @@ redirect_from:
 About
 </h1>
 
-<p> I am a fifth year graduate student in the Biomathematics 
-Ph.D. program at North Carolina State University. I am a <a href="https://gga.ncsu.edu/" target="_blank"  rel="noopener noreferrer">Genetics and Genomics Scholar</a>, 
+<p> I am a fifth year Ph.D. candidate in the Biomathematics 
+Graduate Program at North Carolina State University. I am a <a href="https://gga.ncsu.edu/" target="_blank"  rel="noopener noreferrer">Genetics and Genomics Scholar</a>, 
 as well as a recipient of the National Science Foundation's Graduate Research Fellowship. 
 I received a B.S. in 
 Mathematics with highest honors from the University of Maine in 2020 (my undergraduate

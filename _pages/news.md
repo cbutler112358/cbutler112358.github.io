@@ -28,12 +28,12 @@ I occasionally contribute to the
 <a href="https://ggscholars.org/scholars/blog/" target="_blank"  rel="noopener noreferrer">Genetics and Genomics Scholars blog</a>.
 
 <p>
-<a href="https://mcspolicycenter.umaine.edu/2019/06/19/recipients-of-the-2019-2020-margaret-chase-smith-public-affairs-scholarship-announced/" target="_blank"  rel="noopener noreferrer">Article</a>
+<a href="https://web.archive.org/web/20190701063703/https://mcspolicycenter.umaine.edu/2019/06/19/recipients-of-the-2019-2020-margaret-chase-smith-public-affairs-scholarship-announced/" target="_blank"  rel="noopener noreferrer">Article</a>
  and 
 <a href="https://www.youtube.com/watch?v=2LE4_kD4Lrw" target="_blank"  rel="noopener noreferrer">interview</a>
 on my being awarded the Margaret Chase Smith Public Affairs scholarship to study the opioid epidemic in Maine.
 A
-<a href="https://www.youtube.com/watch?v=2LE4_kD4Lrw" target="_blank"  rel="noopener noreferrer">follow-up article</a>
+<a href="https://mcspolicycenter.umaine.edu/2020/02/25/using-mathematics-to-understand-maines-opioid-epidemic/" target="_blank"  rel="noopener noreferrer">follow-up article</a>
 was released later that year detailing what progress we made in that time. This project would become my undergraduate 
 thesis, and we would eventually publish a paper on our findings in the Bulletin of Mathematical Biology. 
 </p>

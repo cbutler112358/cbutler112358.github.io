@@ -11,6 +11,9 @@ author_profile: true
 
 {% include base_path %}
 
+<b>Butler, C. D.</b>, and A. L. Lloyd. How the consequences of genetic load are modulated by density-dependence. (2024) Preprint.
+DOI: 10.1101/2024.11.08.622719.
+
 <b>Butler, C.</b>, & P. Stechlinski (2023). Modeling Opioid Abuse: A Case Study of the Opioid Crisis in New England. 
 <i>Bulletin of mathematical biology</i>, 85(6);45. DOI: 10.1007/s11538-023-01148-1.
 
@@ -25,9 +28,7 @@ screening for <i>methicillin-resistant Staphylococcus aureus</i> (MRSA) at hospi
 My undergraduate thesis on a mathematical model of the opioid epidemic, which received highest honors,
  can be found <a href="https://digitalcommons.library.umaine.edu/honors/630/" target="_blank"  rel="noopener noreferrer">here</a>.
 
-<h2>In preparation (to appear in the coming months)</h2>
 
-<b>Butler, C.</b>, and A. Lloyd. How the consequences of genetic load are modulated by density-dependence. (In preparation.)
 
 
 
