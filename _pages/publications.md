@@ -14,7 +14,7 @@ author_profile: true
 <b>Butler, C. D.</b>, and A. L. Lloyd. How the consequences of genetic load are modulated by density-dependence. (2024) Preprint.
 DOI: 10.1101/2024.11.08.622719.
 
-<b>Butler, C.</b>, & P. Stechlinski (2023). Modeling Opioid Abuse: A Case Study of the Opioid Crisis in New England. 
+<b>Butler, C.</b>, and P. Stechlinski (2023). Modeling Opioid Abuse: A Case Study of the Opioid Crisis in New England. 
 <i>Bulletin of mathematical biology</i>, 85(6);45. DOI: 10.1007/s11538-023-01148-1.
 
 Yadav, A., <b>Butler, C.</b>, Yamamoto, A., Patil, A., Lloyd, A., and M. Scott (2023). CRISPR-Cas9 based split homing gene-drive targeting 

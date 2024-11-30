@@ -14,7 +14,7 @@ better known
 as spotted wing Drosophila or SWD. First introduced to the United States in 2008, SWD has spread rapidly from 
 cherry farms in California to blueberry fields in my home state of Maine. 
 While other fruit flies feed on over-ripe or rotting fruit, 
-SWD prefer to lay their eggs in ripe fruit---right when the fruit is ready for harvest.
+SWD prefer to lay their eggs in ripe fruit---right it is ready for harvest.
 
 For a few years, I have developed models for the Scott lab to simulate the performance of 
 various gene drive strains. This work has involved determining appropriate release ratios in cage trials, 
