@@ -34,7 +34,7 @@ Research Interests
 </h1>
 
 <p>
-My research interests are in the spread and control of organisms, including pathogens and pests. My work is highly interdisciplinary and spans a number of subjects. Throughout my Ph.D., my research was primarily on methods of genetic biocontrol, specifically gene drives. Gene drives are any natural or artificial mechanism of spreading a gene into a target population. These genes can affect desirable changes, such as creating pathogen-resistant mosquitoes, or impose a fitness cost capable of suppressing or eradicating a target population. However, while revolutionary, this technology is still in its infancy, and technological development relies on mathematical and computational models to understand how it will behave in the wild. 
+My research interests are in the spread and control of organisms, including pathogens and pests. My work is highly interdisciplinary and spans many subjects. Throughout my Ph.D., my research was primarily on methods of genetic biocontrol, specifically gene drives. Gene drives are any natural or artificial mechanism of spreading a gene into a target population. These genes can affect desirable changes, such as creating malaria-resistant mosquitoes, or impose a fitness cost capable of suppressing or eradicating a target population. However, this technology is still in its infancy and development relies on mathematical and computational models to understand how it will behave in the wild. 
 </p>
 
 <p>

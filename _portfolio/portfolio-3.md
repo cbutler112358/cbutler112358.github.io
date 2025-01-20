@@ -2,7 +2,7 @@
 title: "Gene drive in the fruit fly, <i>Drosophila suzukii</i>"
 excerpt: "Dr. Max Scott's lab at NC State is developing gene drives in the invasive fruit fly, <i>Drosophila suzukii</i>, 
 better known
-as spotted wing Drosophila or SWD.
+as spotted wing drosophila (SWD).
 <br/><img src='/images/male_mc_exp_resized.png'>"
 collection: portfolio
 ---
@@ -11,7 +11,7 @@ Dr.
 <a href="https://maxscottlab.wordpress.ncsu.edu/" target="_blank"  rel="noopener noreferrer">Max Scott's lab</a>
  at NC State is developing gene drives in the invasive fruit fly, <i>Drosophila suzukii</i>, 
 better known
-as spotted wing Drosophila or SWD. First introduced to the United States in 2008, SWD has spread rapidly from 
+as spotted wing drosophila (SWD). First introduced to the United States in 2008, SWD has spread rapidly from 
 cherry farms in California to blueberry fields in my home state of Maine. 
 While other fruit flies feed on over-ripe or rotting fruit, 
 SWD prefer to lay their eggs in ripe fruit---right it is ready for harvest.
