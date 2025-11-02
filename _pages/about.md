@@ -13,7 +13,7 @@ Research Interests
 </h1>
 
 <p>
-Broadly, I am interested in questions related to pest and pathogen dispersal. My work is highly interdisciplinary and spans many subjects&mdash;in the past, I have worked with geneticists, molecular biologists, and entomologists. I collaborate with researchers in disparate fields as I deeply enjoy working with and learning from other people. 
+Broadly, I am interested in questions related to pest and pathogen dispersal. My work is highly interdisciplinary and spans many subjects&mdash;in the past, I have worked with geneticists, molecular biologists, and entomologists. I collaborate with researchers in disparate fields as I deeply enjoy working with and learning from others. 
 </p>
 
 <h1>
@@ -23,7 +23,7 @@ About
 <p>
 I am a postdoctoral research scholar in the Department of Entomology at the University of Georgia,
 where I work with 
-<a href="https://site.caes.uga.edu/agroecology/bill-snyder-2/" target="_blank"  rel="noopener noreferrer">Dr. Bill Snyder</a>. My current work focuses on developing models for agricultural pest forecasting and management. My work is 
+<a href="https://site.caes.uga.edu/agroecology/bill-snyder-2/" target="_blank"  rel="noopener noreferrer">Dr. Bill Snyder</a>. My current work focuses on developing models for agricultural pest forecasting and management. 
 </p>
 
 <p> I received my Ph.D. in the Biomathematics from 
