@@ -13,7 +13,7 @@ Research Interests
 </h1>
 
 <p>
-Broadly, I am interested in questions related to pest and pathogen dispersal. My work is highly interdisciplinary and spans many subjects&mdash;in the past, I have worked with geneticists, molecular biologists, and entomologists. I collaborate with researchers in disparate fields as I deeply enjoy working with and learning from others. 
+Broadly, I am interested in data-driven questions related to pest and pathogen dispersal. My work is highly interdisciplinary. I collaborate with researchers in disparate fields as I deeply enjoy working with and learning from others. 
 </p>
 
 <h1>
@@ -26,15 +26,17 @@ where I work with
 <a href="https://site.caes.uga.edu/agroecology/bill-snyder-2/" target="_blank"  rel="noopener noreferrer">Dr. Bill Snyder</a>. My current work focuses on developing models for agricultural pest forecasting and management. 
 </p>
 
-<p> I received my Ph.D. in the Biomathematics from 
+<p> 
+I received my Ph.D. in the Biomathematics from 
 North Carolina State University, where I was advised by Drs.
 <a href="http://alun.math.ncsu.edu/" target="_blank"  rel="noopener noreferrer">Alun Lloyd</a> 
-and <a href="https://cals.ncsu.edu/entomology-and-plant-pathology/people/fgould/" target="_blank"  rel="noopener noreferrer">Fred Gould</a>. I am a <a href="https://gga.ncsu.edu/" target="_blank"  rel="noopener noreferrer">Genetics and Genomics Scholar</a>, 
+and <a href="https://cals.ncsu.edu/entomology-and-plant-pathology/people/fgould/" target="_blank"  rel="noopener noreferrer">Fred Gould</a>. My dissertation, titled <i>The Role of Genetics in Pest Population Control</i>, can be read 
+<a href="https://repository.lib.ncsu.edu/items/dd2052b4-aae7-4b72-a197-6837baf99c87" target="_blank"  rel="noopener noreferrer">here</a>.
+At NC State, I was a <a href="https://gga.ncsu.edu/" target="_blank"  rel="noopener noreferrer">Genetics and Genomics Scholar</a>, 
 and a NSF Graduate Research Fellow. I received a B.S. in 
 Mathematics with highest honors from the University of Maine in 2020 (my undergraduate
-thesis can be found <a href="https://digitalcommons.library.umaine.edu/honors/630/" target="_blank"  rel="noopener noreferrer">here</a>). After a brief period studying civil engineering, I pursued a degree in mathematics after my REU experience at the Mathematical and Theoretical Biology Institute at Arizona State University. 
+thesis can be found <a href="https://digitalcommons.library.umaine.edu/honors/630/" target="_blank"  rel="noopener noreferrer">here</a>). 
 </p> 
-
 
 <p>
 This website is a mishmash of some of the things I've been up to, including past and current projects,
