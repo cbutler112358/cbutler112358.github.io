@@ -8,12 +8,16 @@ redirect_from:
   - /about.html
 ---
 
+<p>
+This website is a mishmash of things related to me and my work. I occasionally make a blog post about something I find interesting. These topics tend to be more general than those I pursue in my research. The webpages on this site may look a little funky if you have an AdBlocker enabled... 
+</p>
+
 <h1>
 Research Interests
 </h1>
 
 <p>
-Broadly, I am interested in data-driven questions related to pest and pathogen dispersal. My work is highly interdisciplinary. I collaborate with researchers in disparate fields as I deeply enjoy working with and learning from others. 
+Broadly, I use data-driven models to answer questions related to pathogen transmission and pest dispersal. My work is highly interdisciplinary. I collaborate with researchers in disparate fields as I deeply enjoy working with and learning from others. 
 </p>
 
 <h1>
@@ -37,12 +41,6 @@ and a NSF Graduate Research Fellow. I received a B.S. in
 Mathematics with highest honors from the University of Maine in 2020 (my undergraduate
 thesis can be found <a href="https://digitalcommons.library.umaine.edu/honors/630/" target="_blank"  rel="noopener noreferrer">here</a>). 
 </p> 
-
-<p>
-This website is a mishmash of some of the things I've been up to, including past and current projects,
-presentations, etc. I will also occasionally make a blog post every so often about some of the things I find interesting. 
-These topics tend to be more general than those I pursue in my research. The webpages on this site may look a little funky if you have an AdBlocker enabled. 
-</p>
 
 
 
