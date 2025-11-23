@@ -11,7 +11,7 @@ redirect_from:
 
 Click
 <a href="/files/CV_2025.pdf" download>
-  here</a> for a copy of my CV <b>(updated March 2025)</b>.
+  here</a> for a copy of my CV <b>(updated September 2025)</b>.
 
 <br>
 <br>

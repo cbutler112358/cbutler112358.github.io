@@ -11,8 +11,17 @@ author_profile: true
 
 {% include base_path %}
 
-<b>Butler, C. D.</b>, and A. L. Lloyd. How the consequences of genetic load are modulated by density-dependence. (2024) Preprint.
-DOI: 10.1101/2024.11.08.622719.
+<b>Butler, C. D.</b>, Dhole, S., Gould, F., and A. Lloyd. Partially functional resistance interferes with gene drive. <i>In progress</i>.
+
+
+<b>Butler, C. D.</b>, and A. L. Lloyd. Spatial confinement of gene drives: Insights from global sensitivity analysis. <i>In progress</i>.
+
+Baltzegar, J., <b>Butler, C. D.</b>, Ding, J., Beeson, C., Reed, E., Reiskind, M., and M. Burford Reiskind (2025). Rapid spread of knockdown resistance allele frequencies in a suburban population of <i>Aedes albopictus</i>. Preprint. DOI: 10.1101/2025.06.30.662396.
+
+<b>Butler, C. D.</b>, Ding, J., Baltzegar, J., Brown, Z., Burford Reiskind, M., and M. Reiskind (2025). Socioeconomic predictors of knockdown resistance in <i>Aedes albopictus</i> (Diptera: Culicidae). Preprint. 
+DOI: 10.1101/2025.07.01.662680.
+
+<b>Butler, C. D.</b>, and A. L. Lloyd (2025). How the consequences of genetic load are modulated by density-dependence. <i>Journal of Theoretical Biology</i>, 614;112215. DOI: 10.1016/j.jtbi.2025.112215.
 
 <b>Butler, C.</b>, and P. Stechlinski (2023). Modeling Opioid Abuse: A Case Study of the Opioid Crisis in New England. 
 <i>Bulletin of mathematical biology</i>, 85(6);45. DOI: 10.1007/s11538-023-01148-1.
