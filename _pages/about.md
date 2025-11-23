@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 <p>
-This website is a mishmash of things related to me and my work. I occasionally make a blog post about something I find interesting. These topics tend to be more general than those I pursue in my research. The webpages on this site may look a little funky if you have an AdBlocker enabled... 
+This website is a mishmash of things related to me and my work. I occasionally make a blog post about something I find interesting. These topics tend to be more general than those I pursue in my research. The webpages on this site may look a little funky if you have an adblocker enabled. 
 </p>
 
 <h1>
