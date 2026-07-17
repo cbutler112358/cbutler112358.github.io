@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 <p>
-This website is a mishmash of things related to me and my work. I occasionally make a blog post about something I find interesting. These topics tend to be more general than those I pursue in my research. The webpages on this site may look a little funky if you have an adblocker enabled. 
+This website is a mishmash of things related to me and my work. I occasionally make a blog post about something I find interesting. These topics tend to be more general than those I pursue for research. The webpages on this site can look a little funky if you have an adblocker enabled. 
 </p>
 
 <h1>
@@ -17,7 +17,7 @@ Research Interests
 </h1>
 
 <p>
-Broadly, I use data-driven models to answer questions related to pathogen transmission and pest dispersal. My work is highly interdisciplinary. I collaborate with researchers in disparate fields as I deeply enjoy working with and learning from others. 
+Broadly, I use data-driven models to answer questions about natural systems, especially if those systems relate to arthropods. I do this using statistical, mathematical, and computational tools. My work is highly interdisciplinary and collaborative as I deeply enjoy working with and learning from others. 
 </p>
 
 <h1>
@@ -27,7 +27,7 @@ About
 <p>
 I am a postdoctoral research scholar in the Department of Entomology at the University of Georgia,
 where I work with 
-<a href="https://site.caes.uga.edu/agroecology/bill-snyder-2/" target="_blank"  rel="noopener noreferrer">Dr. Bill Snyder</a>. My current work focuses on developing models for agricultural pest forecasting and management. 
+<a href="https://site.caes.uga.edu/agroecology/bill-snyder-2/" target="_blank"  rel="noopener noreferrer">Dr. Bill Snyder</a>. My current work focuses on developing models for agricultural pest forecasting, detection, and management. 
 </p>
 
 <p> 
@@ -39,7 +39,7 @@ and <a href="https://cals.ncsu.edu/entomology-and-plant-pathology/people/fgould/
 At NC State, I was a <a href="https://gga.ncsu.edu/" target="_blank"  rel="noopener noreferrer">Genetics and Genomics Scholar</a>, 
 and a NSF Graduate Research Fellow. I received a B.S. in 
 Mathematics with highest honors from the University of Maine in 2020 (my undergraduate
-thesis can be found <a href="https://digitalcommons.library.umaine.edu/honors/630/" target="_blank"  rel="noopener noreferrer">here</a>). 
+thesis can be found <a href="https://maine.primo.exlibrisgroup.com/discovery/fulldisplay?docid=alma991048539035108681&context=L&vid=01MAINE_INST:UM&lang=en&search_scope=MyInst_and_CI&adaptor=Local%20Search%20Engine&tab=Everything&query=any,contains,cole%20butler" target="_blank"  rel="noopener noreferrer">here</a>). 
 </p> 
 
 

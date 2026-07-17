@@ -35,7 +35,7 @@ screening for <i>methicillin-resistant Staphylococcus aureus</i> (MRSA) at hospi
 <i>Letters in Biomathematics</i>, 8(1); 151-66. DOI: 10.30707/LiB8.1.1647878866.073232.
 
 My undergraduate thesis on a mathematical model of the opioid epidemic, which received highest honors,
- can be found <a href="https://digitalcommons.library.umaine.edu/honors/630/" target="_blank"  rel="noopener noreferrer">here</a>.
+ can be found <a href="https://maine.primo.exlibrisgroup.com/discovery/fulldisplay?docid=alma991048539035108681&context=L&vid=01MAINE_INST:UM&lang=en&search_scope=MyInst_and_CI&adaptor=Local%20Search%20Engine&tab=Everything&query=any,contains,cole%20butler" target="_blank"  rel="noopener noreferrer">here</a>.
 
 
 
