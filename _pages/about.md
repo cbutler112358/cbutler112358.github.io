@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 <p>
-This website is a mishmash of things related to me and my work. I occasionally make a blog post about something I find interesting. These topics tend to be more general than those I pursue for research. The webpages on this site can look a little funky if you have an adblocker enabled. 
+I am a quantitative ecologist and mathematical biologist interested in understanding and managing natural systems. My work is highly interdisciplinary and collaborative as I deeply enjoy working with and learning from others. 
 </p>
 
 <h1>
@@ -17,7 +17,7 @@ Research Interests
 </h1>
 
 <p>
-Broadly, I use data-driven models to answer questions about natural systems, especially if those systems relate to arthropods. I do this using statistical, mathematical, and computational tools. My work is highly interdisciplinary and collaborative as I deeply enjoy working with and learning from others. 
+My research focuses on developing data-driven solutions to biological problems in insect pest management and monitoring. My research program seeks to answer two fundamental questions: <b> (1) What biological mechanisms determine the success of pest population control? </b> and <b> (2) How can data-driven models improve how we monitor and manage pest populations? </b>
 </p>
 
 <h1>

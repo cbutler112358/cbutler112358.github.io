@@ -7,8 +7,12 @@ author_profile: true
 
 {% include base_path %}
 
+<a href="https://news.ncsu.edu/2026/07/backyard-mosquito-sprays-may-be-fueling-insecticide-resistance/" target="_blank"  rel="noopener noreferrer">NC State</a> and 
+<a href="https://www.newsobserver.com/news/local/article316618075.html" target="_blank"  rel="noopener noreferrer">News & Observer</a>
+published articles on our recent work on the association between homeowner socioeconomic status and insecticide resistance in <i>Aedes albopictus</i> mosquitoes.
+
 Here is <a href="https://www.youtube.com/watch?v=720cezmHhWY" target="_blank"  rel="noopener noreferrer">video proof</a>
-of me doing lab work=)
+of me doing lab work!
 
 <a href="https://geneticliteracyproject.org/2023/06/16/still-unapproved-crispr-gene-drive-could-suppress-fruit-killing-vinegar-flies/" target="_blank"  rel="noopener noreferrer">Here</a> and 
 <a href="https://news.ncsu.edu/2023/06/crispr-gene-drive-could-suppress-ag-pests/" target="_blank"  rel="noopener noreferrer">here</a>
