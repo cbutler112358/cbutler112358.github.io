@@ -16,13 +16,30 @@ html {
   background-color: #fbfaf7;
 }
 
+html {
+  min-height: 100%;
+  background-color: #fbfaf7;
+}
+
 body {
   min-height: 100vh;
+  position: relative;
+  isolation: isolate;
+  background-color: #fbfaf7;
+}
+
+body::before {
+  content: "";
+  position: fixed;
+  inset: 0;
+  z-index: -1;
   background-image: url('/images/malaria_image_edit.jpg');
   background-size: cover;
   background-position: center center;
   background-repeat: no-repeat;
   background-attachment: fixed;
+  opacity: 0.90;
+  pointer-events: none;
 }
 
 

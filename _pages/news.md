@@ -41,17 +41,3 @@ A
 was released later that year detailing what progress we made in that time. This project would become my undergraduate 
 thesis, and we would eventually publish a paper on our findings in the Bulletin of Mathematical Biology. 
 </p>
-
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-

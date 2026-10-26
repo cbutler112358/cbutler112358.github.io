@@ -36,25 +36,3 @@ My undergraduate thesis on a mathematical model of the opioid epidemic, which re
  can be found <a href="https://maine.primo.exlibrisgroup.com/discovery/fulldisplay?docid=alma991048539035108681&context=L&vid=01MAINE_INST:UM&lang=en&search_scope=MyInst_and_CI&adaptor=Local%20Search%20Engine&tab=Everything&query=any,contains,cole%20butler" target="_blank"  rel="noopener noreferrer">here</a>.
 
 
-
-
-
-
-
-
-<pre>
-
-
-
-
-
-
-
-
-
-
-
-
-
-.
-</pre>

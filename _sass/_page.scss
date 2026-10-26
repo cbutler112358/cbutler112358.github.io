@@ -2,19 +2,23 @@
    SINGLE PAGE/POST
    ========================================================================== */
 
+
 #main {
   @include container;
   @include clearfix;
   margin-top: 2em;
-  padding-left: 1em;
-  padding-right: 1em;
   animation: intro 0.3s both;
   animation-delay: 0.35s;
 
   @include breakpoint($x-large) {
     max-width: $x-large;
   }
+
+  @include breakpoint(max-width $small) {
+    padding: 20px 16px;
+  }
 }
+
 
 .page {
   @include breakpoint($large) {
@@ -49,6 +53,13 @@
 }
 
 .page__content {
+    display: table;
+    width: auto;
+    max-width: 100%;
+    background-color: rgba(251, 250, 247, 0.94);
+    padding: 20px 24px;
+    border-radius: 6px;
+    box-sizing: border-box;
 
     h2 {
         padding-bottom: 0.5em;
@@ -422,3 +433,22 @@
   font-size: $type-size-6;
   text-transform: uppercase;
 }
+
+
+/* Compact background for archive pages */
+.archive {
+  display: table;
+  width: auto;
+  max-width: 100%;
+  box-sizing: border-box;
+  padding: 20px 24px;
+  background-color: rgba(251, 250, 247, 0.94);
+  border-radius: 6px;
+}
+
+@media (max-width: 600px) {
+  .archive {
+    padding: 16px;
+  }
+}
+
