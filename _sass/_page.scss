@@ -435,20 +435,35 @@
 }
 
 
+
+
 /* Compact background for archive pages */
-.archive {
+#main .archive {
   display: table;
-  width: auto;
+  width: fit-content;
   max-width: 100%;
   box-sizing: border-box;
-  padding: 20px 24px;
+  padding: 12px 8px 12px 16px;
   background-color: rgba(251, 250, 247, 0.94);
   border-radius: 6px;
 }
 
+@media (min-width: 50em) {
+  #main .archive {
+    width: fit-content;
+    float: none;
+    margin-left: 0;
+    margin-right: 0;
+  }
+}
+
 @media (max-width: 600px) {
-  .archive {
+  #main .archive {
+    display: block;
+    width: 100%;
     padding: 16px;
   }
 }
+
+
 
