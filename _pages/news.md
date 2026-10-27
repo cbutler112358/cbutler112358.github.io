@@ -39,5 +39,5 @@ on my being awarded the Margaret Chase Smith Public Affairs scholarship to study
 A
 <a href="https://mcspolicycenter.umaine.edu/2020/02/25/using-mathematics-to-understand-maines-opioid-epidemic/" target="_blank"  rel="noopener noreferrer">follow-up article</a>
 was released later that year detailing what progress we made in that time. This project would become my undergraduate 
-thesis, and we would eventually publish a paper on our findings in the Bulletin of Mathematical Biology. 
+thesis, and we would eventually publish a paper on our findings in the <i>Bulletin of Mathematical Biology</i>. 
 </p>
